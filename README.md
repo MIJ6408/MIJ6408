@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @MIJ6408
-- 👀 I’m interested in cars
-- 🌱 I’m currently learning programming
+
